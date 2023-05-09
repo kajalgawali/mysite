@@ -1,0 +1,15 @@
+body{
+    align-content: "middle" ;
+    background-color: cornsilk;
+}
+
+div{
+    border: 1px solid black;width: fit-content;position: absolute;
+    margin-left: 37%;background-color: cadetblue;
+}
+
+pre{
+    text-align: center;
+    margin-top: auto;
+    font-size: large
+}
